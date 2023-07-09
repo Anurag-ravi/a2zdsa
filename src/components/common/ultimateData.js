@@ -6694,7 +6694,7 @@ const ultimateData = {
                                     'Dynamic Programming Introduction',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/dynamic-programming-introduction/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/introduction-to-dp/1',
                                 leetCodeLink: '',
                                 youTubeLink: 'https://youtu.be/tyB0ztf0DNY',
                                 isDone: false,
@@ -6731,7 +6731,7 @@ const ultimateData = {
                                 questionHeading: 'Frog Jump(DP-3)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/geek-jump/1',
                                 leetCodeLink: '',
                                 youTubeLink:
                                     'https://www.youtube.com/watch?v=EgG3jsGoPvQ',
@@ -6746,7 +6746,7 @@ const ultimateData = {
                                     'Frog Jump with k distances(DP-4)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/minimal-cost/1',
                                 leetCodeLink: '',
                                 youTubeLink:
                                     'https://www.youtube.com/watch?v=Kmh3rhyEtB8',
@@ -6801,7 +6801,7 @@ const ultimateData = {
                                 questionHeading: 'Ninja’s Training (DP 7)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/geeks-training/1',
                                 leetCodeLink: '',
                                 youTubeLink:
                                     'https://www.youtube.com/watch?v=AE39gJYuRog',
@@ -6833,7 +6833,7 @@ const ultimateData = {
                                 questionHeading: 'Grid Unique Paths 2 (DP 9)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/grid-path-2/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/unique-paths-ii/',
                                 youTubeLink:
@@ -6902,7 +6902,7 @@ const ultimateData = {
                                     '3D DP : Ninja and his friends (DP-13)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/3-d-dp-ninja-and-his-friends-dp-13/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/chocolates-pickup/1',
                                 leetCodeLink: '',
                                 youTubeLink:
                                     'https://www.youtube.com/watch?v=QGfn7JeXK54',
@@ -6996,7 +6996,7 @@ const ultimateData = {
                                     'Count Partitions with Given Difference (DP – 18)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/partitions-with-given-difference/1',
                                 leetCodeLink: '',
                                 youTubeLink:
                                     'https://www.youtube.com/watch?v=zoilQD1kYSg',
@@ -7303,7 +7303,7 @@ const ultimateData = {
                                     'Buy and Sell Stock – II|(DP-36)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/buy-and-sell-stock-ii-dp-36/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/buy-stock-2/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/',
                                 youTubeLink: 'https://youtu.be/nGJmxkUJQGs',
@@ -7350,7 +7350,7 @@ const ultimateData = {
                                     'Buy and Sell Stocks With Cooldown|(DP-39)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/buy-and-sell-stocks-with-cooldown-dp-39/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/buy-stock-with-cooldown/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/',
                                 youTubeLink: 'https://youtu.be/IGIe46xw3YY',
@@ -7366,7 +7366,7 @@ const ultimateData = {
                                     'Buy and Sell Stocks With Transaction Fee|(DP-40)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/buy-and-sell-stocks-with-transaction-fees-dp-40/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/buy-stock-with-transaction-fee/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/',
                                 youTubeLink: 'https://youtu.be/k4eK-vEmnKg',
@@ -7407,7 +7407,7 @@ const ultimateData = {
                                     'Printing Longest Increasing Subsequence|(DP-42)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1',
                                 leetCodeLink: '',
                                 youTubeLink: 'https://youtu.be/IFfYfonAFGc',
                                 isDone: false,
@@ -7438,7 +7438,7 @@ const ultimateData = {
                                     'Largest Divisible Subset|(DP-44)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/longest-divisible-subset-dp-44/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/e866d887f78664cdbf24c61ef9404691f4fb9e59/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/largest-divisible-subset/',
                                 youTubeLink: 'https://youtu.be/gDuZwBW9VvM',
@@ -7453,7 +7453,7 @@ const ultimateData = {
                                 questionHeading: 'Longest String Chain|(DP-45)',
                                 questionLink:
                                     'https://takeuforward.org/data-structure/longest-string-chain-dp-45/',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/longest-string-chain/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/longest-string-chain/',
                                 youTubeLink: 'https://youtu.be/YY8iBaYcc4g',
@@ -7484,7 +7484,7 @@ const ultimateData = {
                                     'Number of Longest Increasing Subsequences|(DP-47)',
                                 questionLink:
                                     'https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/number-of-longest-increasing-subsequence/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/number-of-longest-increasing-subsequence/',
                                 youTubeLink: 'https://youtu.be/cKVl1TFdNXg',
@@ -7647,7 +7647,7 @@ const ultimateData = {
                                     'Count Square Submatrices with All Ones|(DP-56)',
                                 questionLink:
                                     'https://takeuforward.org/dynamic-programming/striver-dp-series-dynamic-programming-problems/#',
-                                gfgLink: '',
+                                gfgLink: 'https://practice.geeksforgeeks.org/problems/count-square-submatrices-with-all-ones/1',
                                 leetCodeLink:
                                     'https://leetcode.com/problems/count-square-submatrices-with-all-ones/',
                                 youTubeLink: 'https://youtu.be/auS1fynpnjo',
